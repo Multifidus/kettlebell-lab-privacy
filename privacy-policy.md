@@ -2,7 +2,7 @@
 
   **Last Updated: March 13, 2026**
 
-  Kettlebell Lab ("the App") is developed by Derek Harmon. This privacy policy explains what data the App
+  Kettlebell Lab ("the App") is developed by Anatomical Consulting LLC. This privacy policy explains what data the App
   collects, how it is used, and your choices.
 
   ## Data the App Collects
