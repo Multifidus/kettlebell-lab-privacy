@@ -1,6 +1,6 @@
 # Kettlebell Lab — Privacy Policy
 
-  **Last Updated: March 13, 2026**
+  **Last Updated: June 7, 2026**
 
   Kettlebell Lab ("the App") is developed by Anatomical Consulting LLC. This privacy policy explains what data the App
   collects, how it is used, and your choices.
@@ -18,13 +18,10 @@
   ### Workout Data
   The App stores your workout programs, session history, exercises, and templates using Apple's SwiftData
   framework. This data syncs across your devices via your personal iCloud account using Apple's CloudKit service.
-   This data is stored in your private CloudKit database and is not accessible to the developer or any third
-  party.
+  This data is stored in your private CloudKit database and is not accessible to the developer or any third party.
 
   ### Subscription Data
-  If you subscribe to Kettlebell Lab Premium, the transaction is processed entirely by Apple through the App
-  Store. The App verifies your subscription status through Apple's StoreKit framework. The developer does not
-  receive or store your payment information.
+If you purchase Kettlebell Lab Premium — as a monthly or yearly subscription, or as a one-time Lifetime purchase the transaction is processed entirely by Apple through the App Store. The App verifies your purchase status through Apple's StoreKit framework. The developer does not receive or store your payment information.
 
   ### Notification Preferences
   If you enable workout reminders, the App stores your preferred days and times locally on your device using
